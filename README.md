@@ -1,3 +1,2 @@
 # postwebsite
-a tutorial y coreyshafer
-#djangoproject-admin
+Blog website made using django and bootstrap.Made to learn django
